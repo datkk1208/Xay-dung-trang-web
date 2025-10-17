@@ -335,3 +335,28 @@ nav li a:hover {
 
 
 
+
+.contact-box {
+  background: #0a8a07; /* xanh lá */
+  color: white;
+  padding: 30px 50px;
+  border-radius: 6px;
+  text-align: left;
+  line-height: 1.8;
+  width: 80%;
+  max-width: 800px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.contact-box h2 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.contact-box p {
+  font-size: 15px;
+}
+
+.contact-box b {
+  color: #fff;
+}
